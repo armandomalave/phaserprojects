@@ -1,2 +1,4 @@
 # phaserprojects
-Learning to make games with phaser
+Learn making games with phaser
+
+This part is new
